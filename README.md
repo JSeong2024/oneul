@@ -1,4 +1,4 @@
-# Oneul
+# ONEUL
 This is the official GitHub repository for ONEUL.
 
 
