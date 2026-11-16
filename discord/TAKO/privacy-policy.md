@@ -83,3 +83,9 @@ Discord 메시지·첨부파일·DM의 보관과 전송, YouTube의 콘텐츠 �
 
 - [Discord 개인정보 처리방침](https://discord.com/privacy)
 - [Google 개인정보처리방침](https://policies.google.com/privacy?hl=ko)
+
+<p align="center">
+  <a href="https://github.com/JSeong2024/oneul">
+    <img src="/.github/assets/logo_ONEUL_01.png" width="10%" alt="ONEUL">
+  </a>
+</p>
