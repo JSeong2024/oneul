@@ -69,3 +69,9 @@ TAKO는 비공개, 지역 제한, 연령 제한 등 접근 제한을 우회하�
 - [Discord 커뮤니티 가이드라인](https://discord.com/guidelines)
 - [Discord 저작권 및 지식재산권 정책](https://support.discord.com/hc/en-us/articles/4410339349655-Discord-s-Copyright-IP-Policy)
 - [YouTube 이용약관](https://www.youtube.com/t/terms?hl=ko)
+
+<p align="center">
+  <a href="https://github.com/JSeong2024/oneul">
+    <img src="/.github/assets/logo_ONEUL_01.png" width="10%" alt="ONEUL">
+  </a>
+</p>
