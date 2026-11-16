@@ -18,7 +18,7 @@ TAKO는 음악 신청용 채널에서 지원하는 음원 링크와 곡명 검�
 
 곡명 검색 결과·곡 정보와 재생목록은 해당 Discord 채널 또는 기능을 이용할 수 있는 구성원에게 표시될 수 있습니다. 신청자 표시는 제공하지 않습니다. 공용 플레이어와 검색 결과는 개인 비공개 보관함이 아니므로 해당 채널을 볼 수 있는 다른 구성원이 열람하거나 복사할 수 있습니다. 채널 공개 범위는 서버 관리자의 권한 설정에 따라 달라집니다. 이용자가 직접 작성한 신청 메시지·첨부파일의 공개 범위는 Discord 채널 권한을 따릅니다. 검색 결과 메뉴를 자동으로 삭제하는 기능이 이용자의 원본 신청 메시지까지 삭제하는 것은 아닙니다.
 
-음악 정보와 음원 조회에는 요청한 링크·콘텐츠 식별자 등을 YouTube로 전송합니다. 곡명 검색어는 YouTube로 전송하며 검색 결과와의 연결 정보는 운영 로그에 남기지 않습니다. 실행 장치의 접속 정보가 해당 서비스에 전달될 수 있으며 Discord 사용자 ID를 음악 조회 요청에 추가하지 않습니다. SoundCloud와 Spotify 연동은 제공하지 않습니다.
+음악 검색·재생 요청 처리 과정에서 검색어·링크·콘텐츠 식별자가 YouTube로 전송됩니다. 검색 결과와의 연결 정보는 운영 로그에 남기지 않습니다. 실행 장치의 접속 정보가 해당 서비스에 전달될 수 있으며 Discord 사용자 ID를 음악 조회 요청에 추가하지 않습니다. SoundCloud와 Spotify 연동은 제공하지 않습니다.
 
 봇은 운영자 DM이나 별도 Discord 채널로 오류 로그를 자동 전송하지 않습니다. 이용자가 오류 확인을 위해 자료를 직접 제출하는 경우에는 제출한 연락처와 내용이 운영자에게 전달됩니다. 이메일 등 외부 창구의 자료는 목적 달성 후 불필요해지면 삭제하며 Discord 문의 연결 파일로 보관하지 않습니다.
 
@@ -66,4 +66,4 @@ TAKO는 웹사이트 로그인·광고 추적용 쿠키를 직접 설치하지 �
 
 기능·보관 방식이나 관련 의무가 변경되면 변경 내용과 시행일을 공개 문서에 표시합니다. 이용자에게 중대한 영향을 주는 변경은 적용 전에 안내합니다.
 
-관련 문서: [Discord 개인정보 처리방침](https://discord.com/privacy), [Google 개인정보처리방침](https://policies.google.com/privacy?hl=ko), [GitHub 개인정보 처리방침](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement).
+관련 문서: [Discord 개인정보 처리방침](https://discord.com/privacy), [Google 개인정보처리방침](https://policies.google.com/privacy?hl=ko), [YouTube 이용약관](https://www.youtube.com/t/terms?hl=ko), [GitHub 개인정보 처리방침](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement).
